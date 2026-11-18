@@ -1,4 +1,4 @@
-# AI Security Gateway — Final Demonstration Build
+# AI Security Gateway Final Demonstration Build
 
 A show-ready academic prototype that sits between an AI client and an upstream model. It inspects each request using deterministic security rules plus a TF-IDF + Logistic Regression classifier, calculates risk, enforces an ALLOW/BLOCK decision, and stores an auditable event record.
 
@@ -120,4 +120,4 @@ The included dataset is intentionally small and demonstrative. For an academic r
 
 ## Security scope
 
-This is a final-semester demonstration prototype, not a production security gateway. It demonstrates the requested pipeline and evidence trail without pretending that a small local model provides complete protection against real-world adversarial traffic.
+This is a final semester demonstration prototype, not a production security gateway. It demonstrates the requested pipeline and evidence trail without pretending that a small local model provides complete protection against real world adversarial traffic.
