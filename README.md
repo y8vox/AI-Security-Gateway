@@ -1,6 +1,6 @@
 # AI Security Gateway Final Demonstration Build
 
-A show-ready academic prototype that sits between an AI client and an upstream model. It inspects each request using deterministic security rules plus a TF-IDF + Logistic Regression classifier, calculates risk, enforces an ALLOW/BLOCK decision, and stores an auditable event record.
+A show ready academic prototype that sits between an AI client and an upstream model. It inspects each request using deterministic security rules plus a TF-IDF + Logistic Regression classifier, calculates risk, enforces an ALLOW/BLOCK decision, and stores an auditable event record.
 
 ## Architecture
 
